@@ -36,7 +36,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<server>${server}</server>
 						<muleVersion>${app.runtime}</muleVersion>
-						<applicationName>${app.name}</applicationName>
+						<applicationName>customers_sys_ado</applicationName>
 						<workers>${worker}</workers>
 						<workerType>${workerType}</workerType>
 						<environment>${environment}</environment>
